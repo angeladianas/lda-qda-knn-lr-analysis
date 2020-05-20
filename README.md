@@ -6,8 +6,13 @@ This project is divided into two parts. The first part analyzed the MBA dataset 
 * R
 
 ## Packages 
-* [MASS] (https://www.rdocumentation.org/packages/MASS/versions/7.3-47)
+* [MASS](https://www.rdocumentation.org/packages/MASS/versions/7.3-47)
 * [ISLR](https://www.rdocumentation.org/packages/ISLR/versions/1.2)
 * [class](https://cran.r-project.org/web/packages/class/class.pdf)
 * [gmodels](https://www.rdocumentation.org/packages/gmodels/versions/2.18.1)
 * [ROCR](https://www.rdocumentation.org/packages/ROCR/versions/1.0-7)
+
+## More information on Default dataset
+````
+help(Default)
+````
